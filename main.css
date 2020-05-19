@@ -1,0 +1,18 @@
+.true {
+    color: blue;
+    background-color: orange;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+
+.false {
+    color: red;
+    font-size: 18px;
+    font-weight: bolder;
+    background-color: black;
+    padding: 10px;
+    margin: 5px;
+    font-style: italic;
+    animation: headShake infinite;
+}
